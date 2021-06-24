@@ -1,10 +1,8 @@
 # .gitignore
 # file 명
 # directory/
-kakaoapikey.txt
-roadapikey.txt
-chromedriver.exe
-mysql.json
+labeledTrainData.tsv
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
