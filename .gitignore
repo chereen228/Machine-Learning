@@ -3,6 +3,9 @@
 # directory/
 labeledTrainData.tsv
 model/
+naver_movie_train.tsv
+naver_movie_test.tsv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
